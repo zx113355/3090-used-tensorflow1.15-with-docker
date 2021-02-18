@@ -1,4 +1,4 @@
-# 3090 tensorboard1.15配置
+# 3090 tensorflow1.15配置
 # docker-nvidia-tensorflow
 
 在使用CUDA 11 之後 ，tensorflow 1.x版本便不再支援 
